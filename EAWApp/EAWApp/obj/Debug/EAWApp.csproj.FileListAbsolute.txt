@@ -1,0 +1,15 @@
+D:\STUDY\RESOURCE\Visual Studio\EAWApp\EAWApp\bin\Debug\EAWApp.exe.config
+D:\STUDY\RESOURCE\Visual Studio\EAWApp\EAWApp\bin\Debug\EAWApp.exe
+D:\STUDY\RESOURCE\Visual Studio\EAWApp\EAWApp\bin\Debug\EAWApp.pdb
+D:\STUDY\RESOURCE\Visual Studio\EAWApp\EAWApp\bin\Debug\Emgu.CV.UI.dll
+D:\STUDY\RESOURCE\Visual Studio\EAWApp\EAWApp\bin\Debug\Emgu.CV.xml
+D:\STUDY\RESOURCE\Visual Studio\EAWApp\EAWApp\bin\Debug\Emgu.Util.xml
+D:\STUDY\RESOURCE\Visual Studio\EAWApp\EAWApp\obj\Debug\EAWApp.csprojAssemblyReference.cache
+D:\STUDY\RESOURCE\Visual Studio\EAWApp\EAWApp\obj\Debug\EAWApp.Form1.resources
+D:\STUDY\RESOURCE\Visual Studio\EAWApp\EAWApp\obj\Debug\EAWApp.Properties.Resources.resources
+D:\STUDY\RESOURCE\Visual Studio\EAWApp\EAWApp\obj\Debug\EAWApp.csproj.GenerateResource.cache
+D:\STUDY\RESOURCE\Visual Studio\EAWApp\EAWApp\obj\Debug\EAWApp.csproj.CoreCompileInputs.cache
+D:\STUDY\RESOURCE\Visual Studio\EAWApp\EAWApp\obj\Debug\EAWApp.csproj.CopyComplete
+D:\STUDY\RESOURCE\Visual Studio\EAWApp\EAWApp\obj\Debug\EAWApp.exe
+D:\STUDY\RESOURCE\Visual Studio\EAWApp\EAWApp\obj\Debug\EAWApp.pdb
+D:\STUDY\RESOURCE\Visual Studio\EAWApp\EAWApp\bin\Debug\haarcascade_frontalface_alt_tree.xml
